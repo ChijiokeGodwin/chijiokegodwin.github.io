@@ -1,0 +1,21 @@
+W3Schools Html
+Forms and CSRF
+
+CSS-tricks.com
+menu almanac
+Colours paletton.com
+
+Specificity calculator
+Inline styles > IDs > Classes > Elements
+
+google fonts
+flexbox
+
+Bootstrap
+animate.css
+
+
+212, 106, 106
+255, 170, 170
+170, 57, 57
+color:rgb(128, 21, 21)
